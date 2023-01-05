@@ -3,7 +3,7 @@ import logging
 import pandas as pd
 import re
 import numpy as np
-import datetime
+from datetime import datetime
 from pathlib import Path
 
 

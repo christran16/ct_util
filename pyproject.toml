@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "ct-util"
+name = "ct-util-tools"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Chris Tran <chris.l.tran.2016@gmail.com>"]
 readme = "README.md"
 packages = [{include = "ct_util"}]
 
